@@ -7,7 +7,7 @@ This is a C program that checks if a student is eligible for a joint entrance ex
 1. Clone the repository to your local machine using the following command:
    
    ```bash
-   git clone https://github.com/eldarionn/student-exam-eligibility.git
+   git clone https://github.com/Eldarionn/testingg.git
    ```
 
 1. Compile the program using a C compiler (e.g., GCC):
@@ -21,7 +21,6 @@ This is a C program that checks if a student is eligible for a joint entrance ex
    ```bash
    ./student_exam_eligibility
    ```
-
 
 5. Follow the on-screen prompts to enter the marks for five subjects.
 
